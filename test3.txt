@@ -1,1 +1,2 @@
 created on remote check on local
+new line:-Editing this text file on local now check on remote that this file is edited or not
